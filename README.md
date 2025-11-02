@@ -1,4 +1,3 @@
 # DSC180A-Methodology-3
-Natasha Lie
-nlie@ucsd.edu
+Natasha Lie and Chloe Kim
 
